@@ -20,6 +20,6 @@
     "http": "0.0.1-security",
     "node-static": "^0.7.11",
     "os": "^0.1.1",
-    "socket.io": "^3.1.0"
+    "socket.io": "^3.0.0"
   }
 }
